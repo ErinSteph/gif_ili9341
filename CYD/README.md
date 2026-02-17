@@ -1,0 +1,1 @@
+cyd2usbr is a fork of [cydr](https://github.com/jtobinart/MicroPython_CYD_ESP32-2432S028R), if you're not using the dual USB variant of CYD, the original cydr may work better. apart from that, just drop these files on the board, and the example should run.
